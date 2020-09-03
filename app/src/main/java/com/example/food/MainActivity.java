@@ -38,7 +38,7 @@ sp=getSharedPreferences("user",0);
         txtSlogan.setTypeface(face);
         btnSignIn.setOnClickListener(this);
         btnSignUp.setOnClickListener(this);
-
+        //
     }
 
     @Override
